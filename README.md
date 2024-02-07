@@ -21,9 +21,12 @@ In future versions, I would like to extend it with a verification tool, to check
 My first PLT project.
 Simple parser. Transform source code into a LLVM IR.
 
-### [List evaluator](https://github.com/Emaisty/Lisp_evaluator)
+### [Lisp evaluator](https://github.com/Emaisty/Lisp_evaluator)
 
-Simple List parser and evaluator.
+Simple Lisp parser and evaluator. 
+Takes a program written in a Lisp lang and returns the result.
+Works only with constants.
+
 Parser written in C++. Consists of lexer, parser, and AST. 
 AST evaluates the program by itself.
 
