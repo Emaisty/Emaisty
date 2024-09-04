@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-Student of Bachelor studies at CTU Uni. I'm really into *theoretical informatics* and like to explore things in it.
+Student of Master studies at Aarhus Uni. I'm really into *theoretical informatics* and like to explore things in it.
 I'm particularly passionate about **Programming Language Theory**. 
 
 Right now, I'm studying verification techniques and looking forward to putting my knowledge into practice.
