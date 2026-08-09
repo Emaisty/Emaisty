@@ -7,10 +7,16 @@ Right now, I'm studying verification techniques and looking forward to putting m
 
 ## My PLT projects
 
+### [IRIS on Arend](https://github.com/Emaisty/IRIS)
+
+My master's thesis.
+Separation logic framework, originally implemented for the [rocq](https://gitlab.mpi-sws.org/iris/iris/), rewritten for the [Arend theorem prover](https://arend-lang.github.io/).
+Conservative port, preserving the interface and structure of proofs, created on the Homotopy type theory.
+
 ### [TinyGo Compiler](https://github.com/Emaisty/Compiler_for_TinyGO)
 
 
-My current bachelor thesis.
+My bachelor's thesis.
 It is a compiler for a simplified version of GoLang.
 It preserves all original language features, except for STL(obviously), package manager, and concurrent programming (for future improvements).
 
